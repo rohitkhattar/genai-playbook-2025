@@ -26,23 +26,23 @@ This playbook is designed for visual learners and practitioners looking to gain 
 
 ### **2. Core Architecture: Transformers**
 - 🎨 [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Jay Alammar's classic visual explanation
+
+- 🖥️ [Interactive Transformer Visualization](https://bbycroft.net/llm) - Step-by-step visual walkthrough
 - 🧩 [Transformers Visually Explained](https://poloclub.github.io/transformer-explainer/) - Interactive visualization of transformer architecture
 - 🎬 [3Blue1Brown - Transformers Explained Visually](https://www.youtube.com/watch?v=wjZofJX0v4M) - Grant Sanderson's intuitive mathematical explanation
-- 🖥️ [Interactive Transformer Visualization](https://bbycroft.net/llm) - Step-by-step visual walkthrough
-- 📓 [Transformers from Scratch Notebook](https://colab.research.google.com/github/huggingface/notebooks/blob/main/course/en/chapter1/section3_pt.ipynb) - Build a transformer model step by step
+- 📓 Transformers from Scratch Notebook - Build a transformer model step by step : To be added
 
 ### **3. Large Language Models**
 - 🎓 [Andrej Karpathy - Deep Dive into LLMs](https://www.youtube.com/watch?v=7xTGNNLPyMI) - Comprehensive visual breakdown
 - 💻 [Build GPT From Scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY) - Hands-on coding implementation by Andrej Karpathy
-- 📓 [Simple LLM Implementation Notebook](https://colab.research.google.com/github/hollance/neural-networks-from-scratch/blob/main/25%20GPT.ipynb) - Step-by-step code for understanding LLMs
-- 📊 [LLM Visualization Toolkit](https://github.com/bbycroft/llm-viz) - Tools for visualizing LLM operations
+
 
 ### **4. Retrieval Augmented Generation (RAG)**
 - 🌐 [Introduction to RAG with Visualizations](https://weaviate.io/blog/introduction-to-rag) - Visual explanation of RAG architecture
 - 🤖 [Agentic RAG Illustrated](https://weaviate.io/blog/what-is-agentic-rag) - Visual guide to enhancing RAG with agency
 - 📹 [Fully Local RAG Agents with LLaMA3.2-3b](https://www.youtube.com/watch?v=bq1Plo2RhYI) - Visual walkthrough with practical implementation
-- 📓 [Superfast RAG with Llama 3 and Groq Notebook](https://colab.research.google.com/drive/1h8oKI_uKUwxQgmexevHbXpqgf_nMmICb) - Hands-on RAG implementation
-- 📓 [LangChain RAG Pipeline Notebook](https://colab.research.google.com/github/langchain-ai/langchain/blob/master/docs/docs/tutorials/rag.ipynb) - Complete RAG system implementation
+- 📓 [RAG with Llama 3 and Groq Notebook](https://github.com/pinecone-io/examples/blob/master/integrations/groq/groq-llama-3-rag.ipynb) - Hands-on RAG implementation
+- 📓 [LangChain RAG Pipeline Notebook](https://python.langchain.com/docs/tutorials/rag/) 
 
 ### **5. AI Agents**
 - 📝 [Understanding LLM-Powered AI Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) - Visual guide by Lilian Weng

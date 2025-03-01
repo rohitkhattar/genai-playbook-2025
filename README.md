@@ -22,7 +22,7 @@ This playbook is designed for visual learners and practitioners looking to gain 
 
 ### **1. Foundation: Embedding Models**
 - 📊 [Illustrated Word2Vec](https://jalammar.github.io/illustrated-word2vec/) - Jay Alammar's visual guide to understanding word embeddings
-- 📓 [Word Embeddings Jupyter Notebook](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/word_embeddings.ipynb) - Hands-on implementation of word embeddings
+- 📓 Word Embeddings Jupyter Notebook to be added
 
 ### **2. Core Architecture: Transformers**
 - 🎨 [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Jay Alammar's classic visual explanation
